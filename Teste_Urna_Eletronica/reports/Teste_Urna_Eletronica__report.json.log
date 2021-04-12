@@ -1,0 +1,405 @@
+{
+  "feature": {
+    "uri": "validacao_CPF.feature",
+    "keyword": "Feature",
+    "name": "Validação CPF",
+    "line": 1,
+    "id": "validação-cpf",
+    "tags": []
+  }
+}{
+  "scenario": {
+    "uri": "validacao_CPF.feature",
+    "id": "validação-cpf;usuário-digita-cpf-inválido-e-depois-um-válido",
+    "keyword": "Scenario",
+    "line": 3,
+    "name": "Usuário digita CPF inválido e depois um válido",
+    "tags": [],
+    "type": "scenario",
+    "result": {
+      "duration": 72393,
+      "status": "passed"
+    },
+    "steps": [
+      {
+        "keyword": "Before",
+        "hidden": true,
+        "match": {
+          "location": "support\\hooks.js:7"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 1000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "Given ",
+        "line": 4,
+        "name": "Browse to web site \"http://localhost:3000\"",
+        "match": {
+          "location": "step_definitions\\definitions.js:10"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 4109000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 5,
+        "name": "I press the \"1\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2647000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 6,
+        "name": "I press the \"1\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2582000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 7,
+        "name": "I press the \"2\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2632000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 8,
+        "name": "I press the \"3\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2612000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 9,
+        "name": "I press the \"4\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2626000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 10,
+        "name": "I press the \"5\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2620000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 11,
+        "name": "I press the \"6\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2609000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 12,
+        "name": "I press the \"7\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2616000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 13,
+        "name": "I press the \"8\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2635000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 14,
+        "name": "I press the \"9\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2624000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 15,
+        "name": "I press the \"0\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2616000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 16,
+        "name": "I press the \"0\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2610000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "When ",
+        "line": 17,
+        "name": "I press the \"Confirma\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2647000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 18,
+        "name": "I press the \"Corrige\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2681000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 19,
+        "name": "I press the \"4\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2602000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 20,
+        "name": "I press the \"1\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2642000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 21,
+        "name": "I press the \"0\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2632000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 22,
+        "name": "I press the \"7\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2593000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 23,
+        "name": "I press the \"4\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2585000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 24,
+        "name": "I press the \"5\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2610000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 25,
+        "name": "I press the \"4\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2566000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 26,
+        "name": "I press the \"5\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2580000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 27,
+        "name": "I press the \"0\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2589000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 28,
+        "name": "I press the \"9\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2609000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "And ",
+        "line": 29,
+        "name": "I press the \"5\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2569000000
+        }
+      },
+      {
+        "arguments": [],
+        "keyword": "Then ",
+        "line": 30,
+        "name": "I press the \"Confirma\" button",
+        "match": {
+          "location": "step_definitions\\definitions.js:20"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 2580000000
+        }
+      },
+      {
+        "keyword": "After",
+        "hidden": true,
+        "match": {
+          "location": "support\\hooks.js:11"
+        },
+        "result": {
+          "status": "passed",
+          "duration": 369000000
+        },
+        "embeddings": [
+          {
+            "data": "file://Teste_Urna_Eletronica__report/1.png",
+            "mime_type": "image/png"
+          }
+        ]
+      }
+    ]
+  }
+}
